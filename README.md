@@ -1,2 +1,2 @@
 # AdvancedML
-This content is from Coursera Advanced Machine Learning
+Assignments from Coursera Advanced Machine Learning specialization
